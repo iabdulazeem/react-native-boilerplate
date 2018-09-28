@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "E:\\Online Courses\\Udemy - react native - practical guide\\practice\\first-app\\android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi\\ic_launcher.png",
+        "source": "E:\\Online Courses\\Udemy - react native - practical guide\\practice\\first-app\\android\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\AbdulAzeem\\Desktop\\awesome-places\\android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi\\ic_launcher.png",
+        "source": "C:\\Users\\AbdulAzeem\\Desktop\\awesome-places\\android\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher.png"
+    }
+]
