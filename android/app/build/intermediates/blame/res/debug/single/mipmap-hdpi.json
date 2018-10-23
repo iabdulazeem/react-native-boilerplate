@@ -6,5 +6,9 @@
     {
         "merged": "C:\\Users\\AbdulAzeem\\Desktop\\awesome-places\\android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi\\ic_launcher.png",
         "source": "C:\\Users\\AbdulAzeem\\Desktop\\awesome-places\\android\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\AbdulAzeem\\Desktop\\react-native-boilerplate\\android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi\\ic_launcher.png",
+        "source": "C:\\Users\\AbdulAzeem\\Desktop\\react-native-boilerplate\\android\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher.png"
     }
 ]

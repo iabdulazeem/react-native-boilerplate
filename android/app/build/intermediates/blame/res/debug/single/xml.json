@@ -6,5 +6,9 @@
     {
         "merged": "E:\\Online Courses\\Udemy - react native - practical guide\\practice\\first-app\\android\\app\\build\\intermediates\\res\\merged\\debug\\xml\\preferences.xml",
         "source": "E:\\Online Courses\\Udemy - react native - practical guide\\practice\\first-app\\android\\app\\build\\intermediates\\exploded-aar\\com.facebook.react\\react-native\\0.55.4\\res\\xml\\preferences.xml"
+    },
+    {
+        "merged": "C:\\Users\\AbdulAzeem\\Desktop\\react-native-boilerplate\\android\\app\\build\\intermediates\\res\\merged\\debug\\xml\\preferences.xml",
+        "source": "C:\\Users\\AbdulAzeem\\Desktop\\react-native-boilerplate\\android\\app\\build\\intermediates\\exploded-aar\\com.facebook.react\\react-native\\0.55.4\\res\\xml\\preferences.xml"
     }
 ]
